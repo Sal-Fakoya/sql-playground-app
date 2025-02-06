@@ -3,6 +3,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import sqlite3
+import mysql.connector
 from mysql.connector import Error
 from mysql.connector import Error as MySQLError
 from sqlite3 import Error as SQLiteError
