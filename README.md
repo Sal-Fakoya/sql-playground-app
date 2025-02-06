@@ -1,4 +1,4 @@
-# (SQL_PlaygroundApp)[https://sql-playground-app.streamlit.app/]
+# [SQL_PlaygroundApp](https://sql-playground-app.streamlit.app/)
 
 ## About This Application
 
