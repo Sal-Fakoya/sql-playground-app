@@ -368,7 +368,7 @@ def createTabs():
             Use the dropdown to see the tables in the sakila database. 
             Write your query and click \"Execute\" button to run the sample query""")
         
-        create_sqlite3_layout(key = "tab1", form_key="form_key1", db_file=db_file, db_type="SQLite")
+        create_sqlite3_layout(key = "tabL1", form_key="form_key1", db_file=db_file, db_type="SQLite")
     
     with tab2:
         user_database()
